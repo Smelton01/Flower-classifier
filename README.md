@@ -1,6 +1,6 @@
 # Flower-classifier
 Simple classification CNN model for telling flowers apart
 
-Just a test app to get accustomed with how the whoel github thing actually works 
+AI model designed with the FastAI library.
 
-the app is acually pretty good though or at least the idea is, for a limited time
+Simple Webapp for the application developed using HTML and a Flask backend
